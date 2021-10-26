@@ -12,5 +12,5 @@ This project is based on Kotlin and XML for app developmet.
 * Open in android studio
 * Run the app in emulator or your phone
 
-##Status
+## Status
 Budget Tracker application is still in progress and few retweaks are still needed.
