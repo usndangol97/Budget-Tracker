@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Budget Tracker</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="total">Total</string>
+    <string name="category">Category : </string>
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+
+    <string name="food">Food</string>
+    <string name="clothes">Apparels</string>
+    <string name="transp">Transport</string>
+    <string name="edu">Education</string>
+    <string name="acc">Accessories</string>
+    <string name="social">Social Life</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add">ADD</string>
+    <string name="salary">Salary</string>
+    <string name="allowance">Allowance</string>
+    <string name="bonus">Bonus</string>
+    <string name="statements">Statements</string>
+    <string name="charts">Charts</string>
+    <string name="expchart">Expense Chart:</string>
+
+</resources>
